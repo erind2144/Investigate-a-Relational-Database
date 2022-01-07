@@ -13,7 +13,7 @@ Based on the data, I developed four questions of interest, wrote supporting SQL 
 The database can be found on https://www.postgresqltutorial.com/postgresql-sample-database/. The database file is dvdrental.tar within dvdrental.zip which is available for free download.
 
 dvd-rental-erd.png  
-queries.txt  
+dvd-rental-queries.sql  
 report.pdf - Final presentation with data visualizations
 
 ### Credits
